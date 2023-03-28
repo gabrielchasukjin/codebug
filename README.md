@@ -10,5 +10,5 @@ The massive red text makes it seem like the coder made a colossal error. **It ma
 ## Codebug Solution
 <img width="1266" alt="Screen Shot 2023-03-28 at 4 15 20 PM" src="https://user-images.githubusercontent.com/95925660/228388648-57606b82-5f15-4411-9021-de072ded5c93.png">
 
-**Codebug takes in the error message and returns a simple explanation of it. ** It can enhance the student experience by reducing frustration and offering solutions to fix the error. Codebug can clear up python misconceptions, and offer practical suggestions to fix buggy code. 
+**Codebug takes in the error message and returns a simple explanation of it.** It can enhance the student experience by reducing frustration and offering solutions to fix the error. Codebug can clear up python misconceptions, and offer practical suggestions to fix buggy code. 
 

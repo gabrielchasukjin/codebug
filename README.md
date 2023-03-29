@@ -9,9 +9,9 @@ Check the demo
 - [Installation](#installation)
 - [Usage](#usage)
 
-### Installation
+## Installation
 
-Add this line to your command line
+Add this line to your command line:
 
 ```python
 pip install Codebugger
@@ -23,6 +23,6 @@ Add the following to your python file:
 from codebugger import Codebug
 ```
 
-### Usage
+## Usage
 
 

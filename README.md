@@ -14,10 +14,9 @@ When pandas encounters an error, it spits out a massive red text.
 <img width="1266" alt="codebug_sol" src="https://user-images.githubusercontent.com/95925660/228628468-4ba89df1-4612-4aa2-bfc4-2c005311af6d.png">
 
 **Codebug takes in the error message and returns a simple explanation of it.**
-1. Enahances student experience
-2. Hides red text which reduces anxiety
-3. Encourages student to understand the error
-4. Clears up python misconceptions
+1. Encourages student to understand the error
+2. Clears up python misconceptions
+3. Offers practical suggestions to fix buggy code
 
 
 

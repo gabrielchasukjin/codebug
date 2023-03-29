@@ -94,9 +94,9 @@ Try and Except:
 ```python
 try:
   block of code
- except Exception as e: 
+except Exception as e: 
   debug.setError() # Compiles the error
-	print(debug.explnation()) #API Call to GPT-3.5 for explnation of error
+  print(debug.explnation()) #API Call to GPT-3.5 for explnation of error
   
 ```
 

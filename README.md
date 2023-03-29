@@ -4,6 +4,8 @@ Codebug replaces scary error messages with digestible explanations of the error.
 
 The frustration with dealing with errors may single-handedly discourage coding beginners from pursuing a career in data science. Codebug helps solve this issue.
 
+Check the demo
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Installation](#installation)
@@ -20,7 +22,7 @@ pip install Codebugger
 Add the following to your python file:
 
 ```python
-from codebugger import Codbug
+from codebugger import Codebug
 ```
 
 ## Usage

@@ -9,7 +9,7 @@ Check the demo
 - [Installation](#installation)
 - [Usage](#usage)
 
-#### Installation
+### Installation
 
 Add this line to your command line
 
@@ -23,6 +23,6 @@ Add the following to your python file:
 from codebugger import Codebug
 ```
 
-#### Usage
+### Usage
 
 

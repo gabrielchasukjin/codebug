@@ -4,9 +4,8 @@ Codebug replaces scary error messages with digestible text-explanations of the e
 
 ## Demo
 When pandas encounters an error, it spits out a massive red text. 
-1. Hard to discern the error message, 
-2. Bold red text creates anxiety
-3. Discourages coding beginners
+1. Hard to discern the error message
+2. Bold red text discourages coding beginners
 
 <img width="1254" alt="codebug_error" src="https://user-images.githubusercontent.com/95925660/228628449-4609c584-b60a-4c95-aa40-c275756c723c.png">
 
